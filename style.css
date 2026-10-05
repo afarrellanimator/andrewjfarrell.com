@@ -28,3 +28,8 @@
 /* Store links: same pill styling as the original platform labels */
 .platforms a { text-decoration:none; }
 .platforms a:hover, .platforms a:focus-visible { color:var(--text); border-color:rgba(255,255,255,.25); }
+
+/* Additional animation lead credits */
+.lead-credit-strip{margin-top:28px;padding:22px 0;border-bottom:1px solid var(--line)}
+.lead-credit-strip .eyebrow{margin-bottom:8px}
+.lead-credit-strip p:last-child{margin:0;color:#d1d0cb;font-weight:700;font-size:1rem}
